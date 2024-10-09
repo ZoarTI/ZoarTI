@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do ZOARTI 😁
+## Bem-vindo(a) ao perfil do ZOARTI 😎
 
  <div>
    <a href="https://github.com/devemdobro">
